@@ -1,0 +1,151 @@
+body{
+    font-family: 'Redressed', cursive;
+    margin: 0;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: darkgrey;
+    font-size: 25px;
+}
+.highlight-name{
+    color: darkmagenta;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width1{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.half-width1 img{
+    width: 100%;
+}
+.Heading{
+    background-image: url(images1/top-banner.png);
+    background-repeat: no-repeat;
+  
+}
+section{
+    height: 500px;
+  padding-bottom: 150px; 
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg ,indigo, hotpink );
+    padding: 10px 20px;
+    border-radius: 2px;
+    color: white;
+    font-weight: 700;
+
+}
+.aboutme{
+    background-image: url(images1/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width2{
+    box-sizing: border-box;
+    float: left;
+    width: 34%;
+    padding: 5px;
+
+}
+.half-width2 img{
+    width: 300%;
+    float: left;
+    padding: 5px;
+}
+.highlights{
+    text-align:;
+    color:rgb(141, 13, 141);
+    
+}
+.addimg{
+    position: relative;
+    width:1350px;
+    height: 400px;
+    margin: 240px auto;
+    background:whitesmoke;
+
+}
+.box{
+    position: relative;
+    width: 30%;
+    height: 90%;
+    background: white;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.single-box{
+    box-shadow: 10px 10px 40px gray;
+}
+.art{
+    font-size: 15px;
+
+}
+.center{
+    text-align: center;
+}
+.limg{
+    position: relative;
+    text-align: left;
+    color: red;
+}
+.lastimg img {
+   width: 60%;
+   margin-left: 20%;
+   position: relative;
+    
+}
+footer p{
+    font-size: 25px;
+ text-align: center;
+}
+.foot{
+    font-size: 40px;
+    color: black;
+
+}
+.footl1 img{
+    float: left;
+   width: 30px;
+    display: block;
+    margin: 0px auto;
+    margin-left:47%;
+   
+}
+.footl2 img{
+    float: left;
+    width: 30px;
+    display: block;
+   margin: 0px auto;
+   margin-left:6px;
+ 
+}
+.footl3 img{
+    float: left;
+    width: 30px;
+    display: block;
+    margin: 0px auto;
+    margin-right: 2px;
+    
+    
+}
+
+
